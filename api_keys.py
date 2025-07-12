@@ -1,0 +1,3 @@
+GEMINI_API_KEY = "AIzaSyBSLCDpebO7SyEpVZicvoILUA7XLdHt0lo"
+
+MURF_API_KEY = "ap2_f2cd1861-4b88-40fc-b33d-ce156cd98e3d"
